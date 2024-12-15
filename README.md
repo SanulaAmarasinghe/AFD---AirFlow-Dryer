@@ -1,1 +1,0 @@
-# AFD---AirFlow-Dryer
